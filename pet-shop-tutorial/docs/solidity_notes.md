@@ -20,6 +20,8 @@ What is deployedAdresses mean?
 what does the mapping keyword mean?
 
 a: mappings can be seen as hash tables, but not really
+is a data type with keys and values
+every possible key exists
 
 ----
 
@@ -28,6 +30,10 @@ what are events in solidity?
 ----
 
 how does the msg object interact with a contract?
+
+----
+
+how do you get an address inside of a solidity test
 
 ----
 
