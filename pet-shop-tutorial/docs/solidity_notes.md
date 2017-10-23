@@ -33,7 +33,19 @@ how does the msg object interact with a contract?
 
 ----
 
-how do you get an address inside of a solidity test
+how do you get an address inside of a solidity test?
+
+----
+
+#### Ethereum Transaction Structure
+
+- from (address)
+- to (address)
+- gas price (per op)
+- gas limit (for tx)
+- value (sent ether)
+- data (anything)
+- signature
 
 ----
 
